@@ -1,21 +1,3 @@
-Game Panel:
-------------------------------------------------|
-----------------Subscribe to ZETA 404--------|
-------------------------------------------------|
- 
-Making Folders (panel):
- 
-mkdir pterodactyl
- 
-cd pterodactyl
- 
-mkdir panel
- 
-cd panel
- 
-nano docker-compose.yml
- 
- 
 version: '3.8'
 x-common:
   database:
